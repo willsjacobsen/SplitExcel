@@ -2,6 +2,9 @@
 VBA Script to split Excel rows into separate files
 
 
+This script will keep the first row as a header, and will name the files based on the far left column. 
+
+
 To Run:
 
 1. Open your workbook
