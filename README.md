@@ -13,6 +13,6 @@ To Run:
 
 3. Select Insert and then Module
 
-4. Past in the VBA script
+4. Paste in the VBA script into the Module
 
 5. Press F5 to run
