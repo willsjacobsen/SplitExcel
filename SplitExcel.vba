@@ -24,7 +24,9 @@ For Index = 2 To LastRow
 Next Index
 
 'iterate through the unique names collection, writing
-'to new workbooks and saving as the group name .xls
+'to new workbooks and saving as the group name .xls - you can change the output format using the values in the link below
+'https://msdn.microsoft.com/en-us/vba/excel-vba/articles/xlfileformat-enumeration-excel
+    
 Application.DisplayAlerts = False
 For Index = 1 To UniqueNames.Count
     Set OutBook = Workbooks.Add
